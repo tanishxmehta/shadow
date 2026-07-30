@@ -31,27 +31,6 @@ Shadow is my solution: a lightweight desktop application that keeps all of my pr
 
 ## Project Information
 
-Each project can store:
-
-- Project name
-- Description
-- Notes
-- Version
-- Category
-- Status
-- Programming languages
-- Frameworks & libraries
-- Database
-- Project owner
-- Helpers
-- Tags
-- Created date
-- Last updated
-- Last launched
-- GitHub link
-- Documentation link
-- Source code location
-
 <p align="center">
   <img src="Assets/project-details.png" width="850">
 </p>
