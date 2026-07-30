@@ -32,7 +32,7 @@ Shadow is my solution: a lightweight desktop application that keeps all of my pr
 ## Project Details
 
 <p align="center">
-  <img src="Assets/project-details.png" width="850">
+  <img src="Assets/project-details.png" width="100%">
 </p>
 
 ## Built With
