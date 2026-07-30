@@ -28,7 +28,6 @@ Shadow is my solution: a lightweight desktop application that keeps all of my pr
 - Save creation, update, and last launched dates
 - Open GitHub repositories, documentation, and source folders with one click
 - Tag projects for easier organization
-- Modern desktop interface
 
 ## Project Information
 
