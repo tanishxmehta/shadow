@@ -13,7 +13,7 @@ Shadow helps you organize and manage all of your projects from one place. Store 
 
 ## Why I made this
 
-I often found myself forgetting important details about projects, which technologies were used, what version I was on, or when I last worked on it. Existing project management tools were either too complex or designed for teams.
+I often found myself forgetting important details about projects, what version I was on, or when I last worked on it. Existing project management tools were either too complex or designed for teams.
 
 Shadow is my solution: a lightweight desktop application that keeps all of my projects organized in one place while remaining fast and simple to use.
 
