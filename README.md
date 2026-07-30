@@ -20,6 +20,7 @@ Shadow is my solution: a lightweight desktop application that keeps all of my pr
 ## Current Features
 
 - Launch .exe/.bat files directly
+- Filter projects through various means
 - Track project versions
 - Organize projects by category
 - Record languages, frameworks, and databases
