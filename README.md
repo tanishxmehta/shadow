@@ -19,15 +19,13 @@ Shadow is my solution: a lightweight desktop application that keeps all of my pr
 
 ## Current Features
 
-- Save project descriptions and personal notes
+- Launch .exe/.bat files directly
 - Track project versions
 - Organize projects by category
 - Record languages, frameworks, and databases
 - Track project status (Active, On Hold, Completed, etc.)
 - Store project owner and collaborators
-- Save creation, update, and last launched dates
 - Open GitHub repositories, documentation, and source folders with one click
-- Tag projects for easier organization
 
 ## Project Details
 
