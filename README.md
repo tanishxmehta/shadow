@@ -22,7 +22,6 @@ Shadow is my solution: a lightweight desktop application that keeps all of my pr
 - Launch .exe/.bat files directly
 - Filter projects through various means
 - Track project versions
-- Organize projects by category
 - Record languages, frameworks, and databases
 - Track project status (Active, On Hold, Completed, etc.)
 - Store project owner and collaborators
