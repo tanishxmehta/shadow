@@ -52,6 +52,10 @@ Each project can store:
 - Documentation link
 - Source code location
 
+<p align="center">
+  <img src="Assets/project-details.png" width="850">
+</p>
+
 ## Built With
 
 - C#
