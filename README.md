@@ -3,7 +3,7 @@
   Shadow
 </h1>
 
-### A desktop project manager for developers and creators.
+### A desktop project manager for developers and creators. (Windows 10 and 11)
 
 Shadow helps you organize and manage all of your projects from one place. Store project information, keep track of versions and progress, attach useful resources, and quickly jump back into your work without digging through folders.
 
