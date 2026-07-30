@@ -29,7 +29,7 @@ Shadow is my solution: a lightweight desktop application that keeps all of my pr
 - Open GitHub repositories, documentation, and source folders with one click
 - Tag projects for easier organization
 
-## Project Information
+## Project Details
 
 <p align="center">
   <img src="Assets/project-details.png" width="850">
