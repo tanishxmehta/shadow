@@ -8,7 +8,7 @@
 Shadow helps you organize and manage all of your projects from one place. Store project information, keep track of versions and progress, attach useful resources, and quickly jump back into your work without digging through folders.
 
 <p align="center">
-  <img src="Assets/dashboard.png" width="850">
+  <img src="Assets/dashboard.png" width="100%">
 </p>
 
 ## Why I made this
